@@ -178,7 +178,7 @@ nav ul li:hover,nav ul li:active{
 /*----------Tours Header*/
 
 .welcome{
-    width: 1066px;
+    /* width: 1066px; */
     margin: 1px 150px;
     display: flex;
     align-items: center;
@@ -253,7 +253,7 @@ nav ul li:hover,nav ul li:active{
 }
 
 .cities{
-    width: 1066px;
+    /* width: 1066px; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -317,7 +317,7 @@ nav ul li:hover,nav ul li:active{
 }
 /*----------------------------------------------------Packages-------------------------*/
 .packages{
-    width: 1066px;
+    /* width: 1066px; */
     margin: 100px 150px;
     display: flex;
     justify-content: space-between;
@@ -339,7 +339,7 @@ nav ul li:hover,nav ul li:active{
     transition: 0.3s;
 }
 
-}
+
 
 .card-img{
     width: 300px;
@@ -438,7 +438,7 @@ nav ul li:hover,nav ul li:active{
 /*--------------------------------------------------About US*/
 
 .aboutus-container{
-    width: 1066px;
+    /* width: 1066px; */
     margin: 100px 150px;
     margin-bottom: 50px;
     display: flex;
